@@ -3886,4 +3886,11 @@
 
   <java-symbol type="integer" name="config_alertSliderLocation" />
 
+  <!-- The list of components which should be automatically disabled. -->
+  <string-array name="config_disabledComponents" translatable="false"/>
+
+  <!-- Device keyhandlers -->
+  <java-symbol type="array" name="config_deviceKeyHandlerLibs" />
+  <java-symbol type="array" name="config_deviceKeyHandlerClasses" />
+
 </resources>
